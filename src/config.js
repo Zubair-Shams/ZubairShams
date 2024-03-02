@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Zubair | Data Engineer',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Zubair Shams is a Data Engineer at Evamp & Saanga, passionate about continuous learning and assisting those new to the tech field.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Zubair Shams, Zubair, Shams, Big Data, Data Engineer, Azure Data Engineer, Spark, Azure, Machine learning, Data Analysis, java spark, Python developer, tableau, sql, Database, Data',
+  siteUrl: 'https://github.com/Zubair-Shams/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Zubair Shams',
+  location: 'Islamabad, Pakistan',
+  email: 'zubairshams3@gmail.com',
+  github: 'https://github.com/Zubair-Shams/',
+  twitterHandle: '@chandr',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/Zubair-Shams/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/zubair-shams/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://codepen.io/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/',
     },
   ],
 
